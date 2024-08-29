@@ -4,4 +4,4 @@ The director of marketing at Cyclistic, a fictional bike-share company in Chicag
 
 [The data 2024/01 - 2024/06](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
-[Some thought (html format)](https://htmlpreview.github.io/?https://github.com/JellyFishhhhhh/Bike_share/blob/main/bike_share.html)
+[Some thoughts (html format)](https://htmlpreview.github.io/?https://github.com/JellyFishhhhhh/Bike_share/blob/main/bike_share.html)
