@@ -13,6 +13,6 @@ After linking to the API library, the following code is all you need to embed a 
 -->
 
 <tableau-viz id="tableauViz"       
-  src='https://public.tableau.com/views/Superstore_24/Overview'      
+  src='https://public.tableau.com/app/profile/zijian.zhang5458/viz/Bike_book/Dashboard1'      
   height='600px' width='600px' toolbar='bottom' hide-tabs>
 </tableau-viz>
